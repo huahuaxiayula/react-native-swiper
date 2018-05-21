@@ -3,6 +3,7 @@
  * @author leecade<leecade@163.com>
  */
 import React, { Component, PropTypes } from 'react'
+import PropTypes from 'prop-types'
 import {
   Text,
   View,
